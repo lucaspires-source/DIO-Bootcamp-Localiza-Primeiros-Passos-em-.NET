@@ -1,0 +1,13 @@
+C:\Users\pires\Desktop\Localiza\curso\Instrucoes\bin\Debug\netcoreapp3.1\Instrucoes.exe
+C:\Users\pires\Desktop\Localiza\curso\Instrucoes\bin\Debug\netcoreapp3.1\Instrucoes.deps.json
+C:\Users\pires\Desktop\Localiza\curso\Instrucoes\bin\Debug\netcoreapp3.1\Instrucoes.runtimeconfig.json
+C:\Users\pires\Desktop\Localiza\curso\Instrucoes\bin\Debug\netcoreapp3.1\Instrucoes.runtimeconfig.dev.json
+C:\Users\pires\Desktop\Localiza\curso\Instrucoes\bin\Debug\netcoreapp3.1\Instrucoes.dll
+C:\Users\pires\Desktop\Localiza\curso\Instrucoes\bin\Debug\netcoreapp3.1\Instrucoes.pdb
+C:\Users\pires\Desktop\Localiza\curso\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.csprojAssemblyReference.cache
+C:\Users\pires\Desktop\Localiza\curso\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.AssemblyInfoInputs.cache
+C:\Users\pires\Desktop\Localiza\curso\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.AssemblyInfo.cs
+C:\Users\pires\Desktop\Localiza\curso\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.csproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\Localiza\curso\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.dll
+C:\Users\pires\Desktop\Localiza\curso\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.pdb
+C:\Users\pires\Desktop\Localiza\curso\Instrucoes\obj\Debug\netcoreapp3.1\Instrucoes.genruntimeconfig.cache
