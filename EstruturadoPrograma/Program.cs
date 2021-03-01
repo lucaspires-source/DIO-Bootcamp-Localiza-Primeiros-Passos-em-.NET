@@ -1,5 +1,5 @@
 ﻿using System;
-
+using EstruturadoPrograma.Exemplos;
 namespace EstruturadoPrograma
 {
     class Program

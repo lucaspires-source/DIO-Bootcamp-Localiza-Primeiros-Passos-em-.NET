@@ -1,6 +1,6 @@
 using System;
 
-namespace EstruturadoPrograma
+namespace EstruturadoPrograma.Exemplos
 {
 
     public class Pilha
