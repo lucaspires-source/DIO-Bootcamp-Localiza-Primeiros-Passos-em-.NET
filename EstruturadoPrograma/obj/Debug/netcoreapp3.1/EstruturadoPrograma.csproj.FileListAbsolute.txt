@@ -1,0 +1,13 @@
+C:\Users\pires\Desktop\Localiza\curso\EstruturadoPrograma\obj\Debug\netcoreapp3.1\EstruturadoPrograma.csprojAssemblyReference.cache
+C:\Users\pires\Desktop\Localiza\curso\EstruturadoPrograma\obj\Debug\netcoreapp3.1\EstruturadoPrograma.AssemblyInfoInputs.cache
+C:\Users\pires\Desktop\Localiza\curso\EstruturadoPrograma\obj\Debug\netcoreapp3.1\EstruturadoPrograma.AssemblyInfo.cs
+C:\Users\pires\Desktop\Localiza\curso\EstruturadoPrograma\obj\Debug\netcoreapp3.1\EstruturadoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\Localiza\curso\EstruturadoPrograma\bin\Debug\netcoreapp3.1\EstruturadoPrograma.exe
+C:\Users\pires\Desktop\Localiza\curso\EstruturadoPrograma\bin\Debug\netcoreapp3.1\EstruturadoPrograma.deps.json
+C:\Users\pires\Desktop\Localiza\curso\EstruturadoPrograma\bin\Debug\netcoreapp3.1\EstruturadoPrograma.runtimeconfig.json
+C:\Users\pires\Desktop\Localiza\curso\EstruturadoPrograma\bin\Debug\netcoreapp3.1\EstruturadoPrograma.runtimeconfig.dev.json
+C:\Users\pires\Desktop\Localiza\curso\EstruturadoPrograma\bin\Debug\netcoreapp3.1\EstruturadoPrograma.dll
+C:\Users\pires\Desktop\Localiza\curso\EstruturadoPrograma\bin\Debug\netcoreapp3.1\EstruturadoPrograma.pdb
+C:\Users\pires\Desktop\Localiza\curso\EstruturadoPrograma\obj\Debug\netcoreapp3.1\EstruturadoPrograma.dll
+C:\Users\pires\Desktop\Localiza\curso\EstruturadoPrograma\obj\Debug\netcoreapp3.1\EstruturadoPrograma.pdb
+C:\Users\pires\Desktop\Localiza\curso\EstruturadoPrograma\obj\Debug\netcoreapp3.1\EstruturadoPrograma.genruntimeconfig.cache
